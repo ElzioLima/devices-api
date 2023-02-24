@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "63f7b08828e35b26fc742b3b"
+  },
+  "name": "device2",
+  "temperature": null,
+  "humidity": null,
+  "luminosity": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677176968798"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677176968798"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63f7b0f7113b6a155062f714"
+  },
+  "name": "device2",
+  "temperature": null,
+  "humidity": null,
+  "luminosity": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677177079960"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677177079960"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63f7b46e3853fb0d14a34746"
+  },
+  "name": "device2",
+  "temperature": null,
+  "humidity": null,
+  "luminosity": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677177966060"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677177966060"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63f7b8dc760cc60458d65d89"
+  },
+  "name": "device2",
+  "temperature": null,
+  "humidity": null,
+  "luminosity": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677179100773"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677179100773"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63f7db65d241df0d143b005f"
+  },
+  "name": "device2",
+  "temperature": null,
+  "humidity": null,
+  "luminosity": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677187941475"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677187941475"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63f7f6bc9eeb1330a4baf471"
+  },
+  "name": "device2",
+  "temperature": null,
+  "humidity": null,
+  "luminosity": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677194940286"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677194940286"
+    }
+  }
+}]
