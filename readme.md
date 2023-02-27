@@ -16,13 +16,21 @@ An API for a simple Devices Manager
 * TypeORM
 * MongoDB
 * WebSocket
+* MQTT
 
 <br /><br />
 
 > ## Database configuration
 
 * create database "your_database"
-* Change database connection credentials at ormconfig.js or create a .env file
+* Change database connection credentials at ormconfig.js or create a .env file(use .env.example file to create .env file)
+
+<br /><br />
+
+> ## MQTT Broker configuration
+
+* Set a MQTT Broker in your PC
+* Change MQTT Broker connection credentials at .env file(use .env.example file to create .env file)
 
 <br /><br />
 
