@@ -45,57 +45,57 @@ An API for a simple Devices Manager
 > ## Code Repository Architecture
 
 * src
-* |-application
-* | |-contracts
-* | |-controllers
-* | | |-devices
-* | |
-* | |-decorators
-* | |-erros
-* | |-helpers
-* | |-middlewares
-* | |-validation
+* ├──application
+* |  ├──contracts
+* |  ├──controllers
+* |  |  ├──devices
+* |  |
+* |  ├──decorators
+* |  ├──erros
+* |  ├──helpers
+* |  ├──middlewares
+* |  ├──validation
 * |
-* |-domain
-* | |-contracts
-* | | |-gateways
-* | | |-repos
-* | |
-* | |-entities
-* | | |-errors
-* | |
-* | |-use-cases
-* |   |-device
+* ├──domain
+* |  ├──contracts
+* |  |  ├──gateways
+* |  |  ├──repos
+* |  |
+* |  ├──entities
+* |  |  ├──errors
+* |  |
+* |  ├──use-cases
+* |    ├──device
 * |
-* |-infra
-* | |-gateways
-* | |-repos
-* |   |-entities
-* |   |-helpers
+* ├──infra
+* |  ├──gateways
+* |  ├──repos
+* |     ├──entities
+* |     ├──helpers
 * |
-* |-main
-*   |-adapters
-*   |-config
-*   |-factories
-*   | |-application
-*   | | |-controllers
-*   | | | |-devices
-*   | | |
-*   | | |-decorators
-*   | | |-middlewares
-*   | |
-*   | |-domain
-*   | | |-use-cases
-*   | |   |-device
-*   | |
-*   | |-infra
-*   |   |-gateways
-*   |   |-repos
-*   |     |-typeorm
-*   |       |-helpers
-*   |
-*   |-middlewares
-*   |-routes
-*   |-types
+* ├──main
+*    ├──adapters
+*    ├──config
+*    ├──factories
+*    |  ├──application
+*    |  |  ├──controllers
+*    |  |  |  ├──devices
+*    |  |  |
+*    |  |  ├──decorators
+*    |  |  ├──middlewares
+*    |  |
+*    |  ├──domain
+*    |  |  ├──use-cases
+*    |  |     ├──device
+*    |  |
+*    |  ├──infra
+*    |     ├──gateways
+*    |     ├──repos
+*    |        ├──typeorm
+*    |           ├──helpers
+*    |
+*    ├──middlewares
+*    ├──routes
+*    ├──types
 
 <br /><br />
