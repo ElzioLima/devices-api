@@ -44,6 +44,7 @@ An API for a simple Devices Manager
 
 > ## Code Repository Architecture
 
+```bash
 * src
 * ├──application
 * |  ├──contracts
@@ -97,5 +98,5 @@ An API for a simple Devices Manager
 *    ├──middlewares
 *    ├──routes
 *    ├──types
-
+```
 <br /><br />
